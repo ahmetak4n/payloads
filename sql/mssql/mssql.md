@@ -15,7 +15,7 @@ Useful SQL commands for mssql dbms
 `select @@version`
 
 ## database contents
-`seelect * from information_schema.tables`
+`select * from information_schema.tables`
 
 `select * from information_schema.columns where table_name = 'TABLE-NAME-HERE'`
 
