@@ -1,2 +1,2 @@
 # payloads
-payloads about common vulnerabilities
+usefull payloads about common vulnerabilities
